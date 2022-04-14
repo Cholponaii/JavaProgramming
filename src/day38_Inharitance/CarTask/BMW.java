@@ -3,8 +3,8 @@ package day38_Inharitance.CarTask;
 public class BMW extends Car{
 
 
-    public BMW(String model, int year, String color, double price, int miles) {
-        super("BMW", model, year, color, price, miles);
+    public BMW(String model, int year, double price, String color, int miles) {
+        super("BMW", model, year, price, color, miles);
     }
 
     public void breaksDowns(){
