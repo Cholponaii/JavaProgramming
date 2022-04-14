@@ -8,6 +8,7 @@ public class Car {
     public double price;
     public int miles;
 
+
     public Car(String brand, String model, int year, String color, double price, int miles) {
         this.brand = brand;
         this.model = model;
@@ -43,3 +44,12 @@ public class Car {
                 '}';
     }
 }
+
+/*
+Create a class called Car
+			instance variables:
+				brand, model, year, price, color, miles
+				add a constructor to set all the fields
+			instance methods:
+				start(), drive(),toString()
+ */
