@@ -58,3 +58,20 @@ public class Person {
                 '}';
     }
 }
+/*
+CydeoTask:
+    1. Create a class named Person:
+            Variables:
+                name, age, gender
+
+            Encapsulate all the fields
+
+            Add a constructor to set all the fields
+
+            Methods:
+                eat()
+                drink()
+                sleep()
+                toString()
+
+ */
